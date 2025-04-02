@@ -1,8 +1,8 @@
 # ![Your Logo](https://github.com/createmybrand2025/createmybrand2025/blob/main/CreateMyBrand.png?raw=true) 
 
-**[Create My Brand]** - Digital Solutions
+**Create My Brand** - Digital Solutions
 
-Welcome to **[Create My Brand]**, where innovation meets excellence! We specialize in providing top-tier **Web Development**, **App Development**, **Logo Design**, and **Cybersecurity** services, crafted to elevate your digital presence and protect your business online.
+Welcome to **Create My Brand**, where innovation meets excellence! We specialize in providing top-tier **Web Development**, **App Development**, **Logo Design**, and **Cybersecurity** services, crafted to elevate your digital presence and protect your business online.
 
 ## 🚀 **Our Services**
 
@@ -35,9 +35,8 @@ Safeguard your digital assets with our **cutting-edge cybersecurity solutions** 
 
 Ready to take your digital presence to the next level? Let's connect!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Website:** [www.yourwebsite.com](https://www.yourwebsite.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [createmybrand.2025@gmail.com](mailto:createmybrand.2025@gmail.com)
+- **Website:** [createmybrand.netlify.app](https://createmybrand.netlify.app)
 
 ---
 
