@@ -40,8 +40,8 @@ Ready to take your digital presence to the next level? Let's connect!
 
 ---
 
-**[Create My Brand]** - Where Your Ideas Come to Life! 🌟
+**Create My Brand** - Where Your Ideas Come to Life! 🌟
 
-# ![Your Logo]([https://example.com/your-logo.png](https://github.com/createmybrand2025/createmybrand2025/blob/main/CreateMyBrand.png?
+# ![Your Logo](https://github.com/createmybrand2025/createmybrand2025/blob/main/createmybrandlogo.png?raw=true)
 
 
